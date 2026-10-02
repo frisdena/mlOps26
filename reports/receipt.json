@@ -1,0 +1,33 @@
+{
+  "merchant": "PT Mitra Agung",
+  "tanggal": "01/01/2025",
+  "item": [
+    {
+      "description": "Ayam Potong Segar",
+      "quantity": "50 Kg",
+      "unit_price": "Rp35.000",
+      "total_price": "Rp1.750.000"
+    },
+    {
+      "description": "Bumbu Ayam Bakar Siap Pakai",
+      "quantity": "10 kg",
+      "unit_price": "Rp30.000",
+      "total_price": "Rp300.000"
+    },
+    {
+      "description": "Arang Kayu",
+      "quantity": "5 pack",
+      "unit_price": "Rp40.000",
+      "total_price": "Rp200.000"
+    },
+    {
+      "description": "Daun Pisang",
+      "quantity": "500 lembar",
+      "unit_price": "Rp500",
+      "total_price": "Rp250.000"
+    }
+  ],
+  "subtotal": "Rp2.500.000",
+  "pajak": "0",
+  "total": "Rp2.500.000"
+}
